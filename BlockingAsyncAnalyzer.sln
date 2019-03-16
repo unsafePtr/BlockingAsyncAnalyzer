@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockingAsyncAnalyzer", "BlockingAsyncAnalyzer\BlockingAsyncAnalyzer\BlockingAsyncAnalyzer.csproj", "{19A1BCA6-3EE5-4561-993C-E0F1A811D8A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockingAsyncAnalyzer.Vsix", "BlockingAsyncAnalyzer\BlockingAsyncAnalyzer.Vsix\BlockingAsyncAnalyzer.Vsix.csproj", "{B4BA6B70-D8EF-413B-8A4D-165B35885C5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A1BCA6-3EE5-4561-993C-E0F1A811D8A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A1BCA6-3EE5-4561-993C-E0F1A811D8A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A1BCA6-3EE5-4561-993C-E0F1A811D8A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A1BCA6-3EE5-4561-993C-E0F1A811D8A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BA6B70-D8EF-413B-8A4D-165B35885C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BA6B70-D8EF-413B-8A4D-165B35885C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BA6B70-D8EF-413B-8A4D-165B35885C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BA6B70-D8EF-413B-8A4D-165B35885C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6456CC80-5D00-474A-948B-0BC5778D81F7}
+	EndGlobalSection
+EndGlobal
